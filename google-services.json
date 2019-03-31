@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "204660379324",
+    "firebase_url": "https://chatappbanone.firebaseio.com",
+    "project_id": "chatappbanone",
+    "storage_bucket": "chatappbanone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204660379324:android:3433e9a7dc5f3efb",
+        "android_client_info": {
+          "package_name": "santhakumar.com.chatappbanone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204660379324-t0ega0p06855h4n0tqbgq98j9mjk32tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "santhakumar.com.chatappbanone",
+            "certificate_hash": "5018185e6b3679b2d8c6387cb8e74e1ae4d462ff"
+          }
+        },
+        {
+          "client_id": "204660379324-j6df3s2o7bqofoecf24jvjnf9dsmiso1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrB7ibXCyYY2KulSfSGZJPr1plKpdNyw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204660379324-j6df3s2o7bqofoecf24jvjnf9dsmiso1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
